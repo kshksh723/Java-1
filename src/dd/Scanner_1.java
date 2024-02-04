@@ -39,6 +39,8 @@ public class Scanner_1 {
 		sc.close();
 		
 		
+	
+		
 	}
 	
 }
